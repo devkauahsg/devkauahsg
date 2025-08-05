@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Kauã Henrique 👋
-### 🚀 Desenvolvedor Web | Apaixonado por Tecnologia e Design
+### 🚀 Desenvolvedor Web | Dev Front-End
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kau%C3%A3-henrique-78259a259/" target="_blank">
@@ -8,7 +8,7 @@
   <a href="https://api.whatsapp.com/send/?phone=5511953736849&text=Ol%C3%A1%20gostaria%20de%20conversar%20com%20o%20%20Kau%C3%A3!" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.instagram.com/kaua_hsg/" target="_blank">
+  <a href="https://www.instagram.com/kaua.dev?igsh=MXB5NGlqczhnNXZ5cA==" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
