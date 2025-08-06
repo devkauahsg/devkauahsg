@@ -47,14 +47,12 @@
 </div>
 
 ###
-Sou um Desenvolvedor Web com foco em HTML, CSS, Tailwind CSS, Javascript e React JS, tecnologias que venho estudando dia após dia e com mais experiência. Mas também possuo um básico conhecimento Back-End, em Node JS e MySQL
+Sou um Desenvolvedor Web com foco em Front-End com HTML, CSS, Javascript e React JS. Mas também possuo um básico conhecimento Back-End, em Node JS e MySQL
 
-Sou formado no curso técnico "Informática para Internet" na ETEC de Poá entre 2023 e 2024, onde conheci essas linguagens e mais alguns outros conhecimentos técnicos.
-Agora estou cursando a minha graduação em Análise e Desenvolvimento de Sistemas na Universidade de Mogi das Cruzes!
+Sou formado no curso técnico "Informática para Internet" na ETEC de Poá entre 2023 e 2024 e agora estou cursando a minha graduação em Análise e Desenvolvimento de Sistemas na Universidade de Mogi das Cruzes!
 
 Me considero um Dev dedicado e focado no aprendizado, sempre buscando por novos conhecimentos e novas tecnologias para aprimorar ainda mais as minhas habilidades. Estou pronto para superar qualquer desafio!
 <br>
-Disponível para Freelancer!
 
 ## Entre em contato:
 - E-mail - kauasousa2810@gmail.com<br>
