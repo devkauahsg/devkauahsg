@@ -40,26 +40,26 @@ Me considero um Dev dedicado e focado no aprendizado, sempre buscando por novos 
 
 ## Entre em contato:
 <div align="left">
-  <a href="https://api.whatsapp.com/send/?phone=5511953736849&text=Ol%C3%A1%20gostaria%20de%20conversar%20com%20o%20%20Kau%C3%A3!" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="52" alt="whatsapp   logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/kau%C3%A3-henrique-78259a259/" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="52" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/kau%C3%A3-henrique-78259a259/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="52" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/kaua.dev?igsh=MXB5NGlqczhnNXZ5cA==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="52" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/kau%C3%A3-henrique-78259a259/" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="52" "/>
-  </a>
-  <a href="https://www.linkedin.com/in/kau%C3%A3-henrique-78259a259/" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="52" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/kau%C3%A3-henrique-78259a259/" target="_blank">
-    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" width="52" alt="linkedin logo"  />
-  </a>
+    <a href="https://api.whatsapp.com/send/?phone=5511953736849&text=Ol%C3%A1%20gostaria%20de%20conversar%20com%20o%20%20Kau%C3%A3!" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="80" height="25" alt="whatsapp logo" />
+    </a>
+    <a href="https://www.linkedin.com/in/kau%C3%A3-henrique-78259a259/" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="80" height="25" alt="telegram logo" />
+    </a>
+    <a href="https://www.linkedin.com/in/kau%C3%A3-henrique-78259a259/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="25" alt="linkedin logo" />
+    </a>
+    <a href="https://www.instagram.com/kaua.dev?igsh=MXB5NGlqczhnNXZ5cA==" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="80" height="25" alt="instagram logo" />
+    </a>
+    <a href="https://www.linkedin.com/in/kau%C3%A3-henrique-78259a259/" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80" height="25" alt="gmail logo" />
+    </a>
+    <a href="https://www.linkedin.com/in/kau%C3%A3-henrique-78259a259/" target="_blank">
+      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="80" height="25" alt="outlook logo" />
+    </a>
+    <a href="https://www.linkedin.com/in/kau%C3%A3-henrique-78259a259/" target="_blank">
+      <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" width="80" height="25" alt="linktree logo" />
+    </a>
 </div>
 
