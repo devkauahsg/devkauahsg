@@ -46,7 +46,7 @@ Me considero um Dev dedicado e focado no aprendizado, sempre buscando por novos 
     <a href="https://www.instagram.com/kaua.dev?igsh=MXB5NGlqczhnNXZ5cA==" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="80" height="25" alt="instagram logo" />
     </a>
-    <a href="https://linktre.ee/dev.kaua" target="_blank">
+    <a href="https://linktr.ee/dev.kaua" target="_blank">
       <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" width="80" height="25" alt="linktree logo" />
     </a>
 </div>
